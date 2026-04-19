@@ -1,0 +1,9 @@
+{
+  "name": "deepltranslator",
+  "version": "1.0.0",
+  "description": "DeepL Translator for HarmonyOS Watch",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}

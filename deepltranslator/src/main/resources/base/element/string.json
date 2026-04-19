@@ -1,0 +1,8 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Tal·译 - 手表应用" },
+    { "name": "MainAbility_desc", "value": "Tal·译 主入口" },
+    { "name": "MainAbility_label", "value": "Tal·译" },
+    { "name": "permission_reason", "value": "用于连接 DeepL 服务器进行翻译" }
+  ]
+}

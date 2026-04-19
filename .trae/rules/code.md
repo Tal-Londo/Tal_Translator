@@ -1,0 +1,9 @@
+命令行开发
+针对流水线或命令行开发场景，推荐使用Command Line Tools命令行工具，其中集合了HarmonyOS应用开发所用到的系列工具，包括代码检查工具codelinter、三方包管理工具ohpm、堆栈解析工具hstack、命令行构建工具hvigorw。
+
+代码检查工具codelinter：对代码进行检查与快速修复，可将codelinter工具集成到门禁或持续集成环境中。
+三方包管理工具ohpm：作为OpenHarmony三方库的包管理工具，支持OpenHarmony共享包的发布、安装和依赖管理。
+堆栈解析工具hstack：用于将Release应用混淆后的crash堆栈还原为源码对应堆栈。
+命令行构建工具hvigorw：作为Hvigor的wrapper包装工具，支持自动安装Hvigor构建工具和相关插件依赖，以及执行Hvigor构建命令。
+
+以上内容均包含在D:\commandline-tools-windows-x64-6.0.0.878\command-line-tools\bin目录下，且包含在系统PATH内。   请合理使用

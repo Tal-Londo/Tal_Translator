@@ -1,0 +1,6 @@
+{
+  "layered-image": {
+    "foreground": "$media:startIcon",
+    "background": "$media:startIcon"
+  }
+}
